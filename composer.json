@@ -1,0 +1,22 @@
+{
+  "name": "Loac/CodeMirror-bundle",
+  "description": "A Symfony bundle providing CodeMirror CSS and JS files",
+  "keywords": [
+    "symfony",
+    "composer"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dmitry Loac",
+      "email": "reloac@gmail.com"
+    }
+  ],
+  "homepage": "https://github.com/Loac/CodeMirror-bundle",
+  "autoload": {
+    "psr-4": {
+        "Loac\\CodeMirrorBundle\\": ""
+    }
+  }
+}
