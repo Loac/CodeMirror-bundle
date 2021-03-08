@@ -1,5 +1,5 @@
 {
-  "name": "Loac/CodeMirror-bundle",
+  "name": "loac/codemirror-bundle",
   "description": "A Symfony bundle providing CodeMirror CSS and JS files",
   "keywords": [
     "symfony",
